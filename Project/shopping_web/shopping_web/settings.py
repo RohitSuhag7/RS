@@ -26,7 +26,7 @@ SECRET_KEY = '74xd8$%9b=elpw1ni(@#ndb!xd7$5^&z7)u^8rbfbq_em53$$)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['shopping--web.herokuapp.com/','localhost']
+ALLOWED_HOSTS = ['127.0.0.1','shopping--web.herokuapp.com']
 
 
 # Application definition
